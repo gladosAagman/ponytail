@@ -8,6 +8,10 @@
 <h1 align="center">Ponytail</h1>
 
 <p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
+</p>
+
+<p align="center">
   <em>He says nothing. He writes one line. It works.</em>
 </p>
 
@@ -164,3 +168,8 @@ The code you never wrote scales infinitely. Zero bugs, zero CVEs, 100% uptime si
 
 **Why "ponytail"?**
 You know exactly why.
+
+## License
+
+[MIT](LICENSE).
+
