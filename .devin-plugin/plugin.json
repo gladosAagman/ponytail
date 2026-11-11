@@ -1,0 +1,11 @@
+{
+  "name": "ponytail",
+  "version": "5.3.3",
+  "description": "Lazy senior dev mode. Forces the simplest, shortest solution that actually works: YAGNI, stdlib first, no unrequested abstractions.",
+  "keywords": [
+    "yagni",
+    "minimalism",
+    "code-review",
+    "productivity"
+  ]
+}
