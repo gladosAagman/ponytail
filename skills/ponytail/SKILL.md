@@ -1,5 +1,6 @@
 ---
 name: ponytail
+disable-model-invocation: true
 description: >
   Lazy senior dev mode: the smallest change that fully solves the task, and a
   reply a busy human understands in one read. Use on any coding task (writing,
